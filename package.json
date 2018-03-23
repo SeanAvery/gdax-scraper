@@ -1,0 +1,30 @@
+{
+  "name": "gdax-scraper",
+  "version": "0.0.1",
+  "description": "stats from gdax markets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanAvery/gdax-scraper.git"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "algorithmic",
+    "trading",
+    "node.js",
+    "gdax"
+  ],
+  "author": "Sean Pollock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeanAvery/gdax-scraper/issues"
+  },
+  "homepage": "https://github.com/SeanAvery/gdax-scraper#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
