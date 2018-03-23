@@ -26,5 +26,8 @@
   "homepage": "https://github.com/SeanAvery/gdax-scraper#readme",
   "devDependencies": {
     "babel-preset-env": "^1.6.1"
+  },
+  "dependencies": {
+    "ws": "^5.1.0"
   }
 }
